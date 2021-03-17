@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana;
+}
+
+.small {
+    width: 50% !important;
+}
+
+.big {
+    width: 25%;
+}
+
+.trans {
+    transition: width 1s;
+}
